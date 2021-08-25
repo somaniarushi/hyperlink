@@ -4,8 +4,9 @@
   "description": "A shortlinker for my personal website",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js",
-    "start": "nodemon index.js"
+    "test": "nodemon index.js",
+    "start": "node index.js",
+    "logs": "heroku logs --tail --app hyperlinker"
   },
   "keywords": [
     "shortlinks",
@@ -22,6 +23,7 @@
     "@babel/core": "^7.15.0",
     "@babel/node": "^7.14.9",
     "@babel/preset-env": "^7.15.0",
+    "heroku": "^7.59.0",
     "nodemon": "^2.0.12"
   }
 }
