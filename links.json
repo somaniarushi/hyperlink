@@ -9,5 +9,6 @@
     "demo": "https://cubstart-demo.herokuapp.com/",
     "demo-code": "https://github.com/somaniarushi/cubstart-demo",
     "189": "https://amks.notion.site/CS-189-Course-Notes-cbd6780e4a6948c8a960abf8d275a432",
-    "janet": "https://discord.com/api/oauth2/authorize?client_id=905969213473177671&permissions=395204185088&scope=bot"
+    "janet": "https://discord.com/api/oauth2/authorize?client_id=905969213473177671&permissions=395204185088&scope=bot",
+    "guide": "https://arushi-somani.gitbook.io/cs61a-guidebook/"
 }
